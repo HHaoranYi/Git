@@ -3,7 +3,7 @@
 title: Haoran Yi
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wuaaa
+name_pronunciation: Chien Shiung Wuaaaasd
 
 # Full name (for SEO)
 first_name: Shiung Wu
